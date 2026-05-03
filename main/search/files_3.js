@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['debug_2eh_0',['debug.h',['../debug_8h.html',1,'']]],
-  ['distance_5ffunctions_2eh_1',['distance_functions.h',['../distance__functions_8h.html',1,'']]],
-  ['distance_5ffunctions_5ff16_2eh_2',['distance_functions_f16.h',['../distance__functions__f16_8h.html',1,'']]],
-  ['distancefunctions_2ec_3',['DistanceFunctions.c',['../DistanceFunctions_8c.html',1,'']]],
-  ['distancefunctionsf16_2ec_4',['DistanceFunctionsF16.c',['../DistanceFunctionsF16_8c.html',1,'']]]
+  ['fixed_5fpoint_2ehpp_0',['fixed_point.hpp',['../fixed__point_8hpp.html',1,'']]],
+  ['forward_2ehpp_1',['forward.hpp',['../forward_8hpp.html',1,'']]],
+  ['fusion_2ehpp_2',['fusion.hpp',['../fusion_8hpp.html',1,'']]],
+  ['fusion_5fops_2ehpp_3',['fusion_ops.hpp',['../fusion__ops_8hpp.html',1,'']]]
 ];

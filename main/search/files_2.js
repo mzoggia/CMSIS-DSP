@@ -1,12 +1,9 @@
 var searchData=
 [
-  ['commontables_2ec_0',['CommonTables.c',['../CommonTables_8c.html',1,'']]],
-  ['commontablesf16_2ec_1',['CommonTablesF16.c',['../CommonTablesF16_8c.html',1,'']]],
-  ['complex_5fmath_5ffunctions_2eh_2',['complex_math_functions.h',['../complex__math__functions_8h.html',1,'']]],
-  ['complex_5fmath_5ffunctions_5ff16_2eh_3',['complex_math_functions_f16.h',['../complex__math__functions__f16_8h.html',1,'']]],
-  ['complexmathfunctions_2ec_4',['ComplexMathFunctions.c',['../ComplexMathFunctions_8c.html',1,'']]],
-  ['complexmathfunctionsf16_2ec_5',['ComplexMathFunctionsF16.c',['../ComplexMathFunctionsF16_8c.html',1,'']]],
-  ['controller_5ffunctions_2eh_6',['controller_functions.h',['../controller__functions_8h.html',1,'']]],
-  ['controller_5ffunctions_5ff16_2eh_7',['controller_functions_f16.h',['../controller__functions__f16_8h.html',1,'']]],
-  ['controllerfunctions_2ec_8',['ControllerFunctions.c',['../ControllerFunctions_8c.html',1,'']]]
+  ['basic_2ehpp_0',['basic.hpp',['../DSP_2basic_8hpp.html',1,'']]],
+  ['double_2ehpp_1',['double.hpp',['../double_8hpp.html',1,'']]],
+  ['matrix_5fmultiply_2ehpp_2',['matrix_multiply.hpp',['../DSP_2matrix__multiply_8hpp.html',1,'']]],
+  ['num_5ffeatures_2ehpp_3',['num_features.hpp',['../DSP_2num__features_8hpp.html',1,'']]],
+  ['q15_2ehpp_4',['q15.hpp',['../DSP_2q15_8hpp.html',1,'']]],
+  ['q7_2ehpp_5',['q7.hpp',['../DSP_2q7_8hpp.html',1,'']]]
 ];

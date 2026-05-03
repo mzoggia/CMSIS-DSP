@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['use_5fstatic_5finit_0',['USE_STATIC_INIT',['../arm__class__marks__example__f32_8c.html#a821d6c5973940580f5a045e7cf64b7f2',1,'arm_class_marks_example_f32.c']]],
-  ['utils_2eh_1',['utils.h',['../utils_8h.html',1,'']]]
+  ['unroll_2ehpp_0',['unroll.hpp',['../unroll_8hpp.html',1,'']]],
+  ['unrolling_1',['Unrolling',['../group__UNROLLING.html',1,'']]],
+  ['user_5fallocator_5faligned_5fmalloc_2',['user_allocator_aligned_malloc',['../group__MEMORY.html#structarm__cmsis__dsp_1_1user__allocator__aligned__malloc',1,'arm_cmsis_dsp']]]
 ];

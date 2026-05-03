@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['cmsis_20dsp_20software_20library_0',['CMSIS DSP Software Library',['../index.html',1,'']]]
+  ['building_20and_20running_20examples_0',['Building and running examples',['../dsppp_building.html',1,'dsppp_main']]]
 ];

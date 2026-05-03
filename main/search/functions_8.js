@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['stage_5frfft_5ff16_0',['stage_rfft_f16',['../arm__rfft__fast__f16_8c.html#aaf06795e0dcb16aaeca0d6fe4efba3dc',1,'arm_rfft_fast_f16.c']]],
-  ['stage_5frfft_5ff32_1',['stage_rfft_f32',['../arm__rfft__fast__f32_8c.html#a2f74435c5e0b3ea1ca2335e9119be7cc',1,'arm_rfft_fast_f32.c']]],
-  ['stage_5frfft_5ff64_2',['stage_rfft_f64',['../arm__rfft__fast__f64_8c.html#a5d3882b22c295a074ac33cc7b6ee9212',1,'arm_rfft_fast_f64.c']]]
+  ['has_5fpredicate_0',['has_predicate',['../group__FUSION.html#ga36c13882f29abdf00846e5437ee0057e',1,'arm_cmsis_dsp']]],
+  ['has_5fpredicate_5finst_1',['has_predicate_inst',['../group__FUSION.html#ga5cbfe80069a65eebf82f8b1b8e9ae86e',1,'arm_cmsis_dsp']]],
+  ['has_5fvector_5finst_2',['has_vector_inst',['../group__FUSION.html#ga29fc0caca6b223e2b108fd18f696b276',1,'arm_cmsis_dsp']]]
 ];
